@@ -1,5 +1,3 @@
-"# Python-Agentic" 
-
 # Python-Agentic
 
 Python-Agentic is a learning and experimentation repository focused on **Generative AI** and **LangChain**.  
