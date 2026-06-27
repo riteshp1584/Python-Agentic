@@ -29,13 +29,19 @@ It serves as a structured workspace to explore agentic workflows, build modular 
 
 🧩 Key Concepts
 Agentic workflows: Building autonomous agents that can reason, plan, and act.
+
 LangChain integration: Using LangChain to connect models, tools, and memory.
+
 Commit history preservation: Ensuring learning progress is tracked across repositories.
 
 📖 Learning Journal
+
 This repo is part of a broader study roadmap based on Generative AI – LangChain.
+
 Each folder represents a chapter or experiment, with notes and scripts to reinforce understanding.
 
 🤝 Contributing
+
 This is primarily a personal learning repository, but suggestions and improvements are welcome.
+
 Feel free to open issues or submit pull requests.
